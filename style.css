@@ -8,6 +8,11 @@ body {
   background-color:  #f0f0f0;
 }
 
+h1{
+  text-align: center;
+  color: #007BFF;
+}
+
 .calculator {
   background-color: #000000;
   padding: 20px;
